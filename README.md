@@ -30,4 +30,4 @@ add the following lines:
 The Amixer set PCM -- 400 line is a volume setting when I was troubleshooting volume issues. Not sure if it's still needed but it's included in my startup script. https://www.raspberrypi.org/forums/viewtopic.php?t=14966
 It could be the reason I hear more static in the background,  hahaha.
 
-[logo] https://github.com/SXN31/raspberrypi_soundboard/blob/master/Raspberry%20Pi%20Soundboard%20Case.jpg "Case Mockup"
+![Mockup](https://github.com/SXN31/raspberrypi_soundboard/blob/master/Raspberry%20Pi%20Soundboard%20Case.jpg)
