@@ -24,6 +24,7 @@ pico ~/.config/lxsession/LXDE-pi/autostart
 
 add the following lines:
 @amixer set PCM -- 400.
+
 @sudo python /home/pi/soundboard.py
 
 ### Note:
